@@ -1,0 +1,14 @@
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\obj\Debug\App.g.cs
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\obj\Debug\Data Base_MarkupCompile.cache
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\obj\Debug\MainWindow.g.cs
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\obj\Debug\Data Base_MarkupCompile.lref
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\bin\Debug\Data Base.exe.config
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\bin\Debug\Data Base.exe
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\bin\Debug\Data Base.pdb
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\obj\Debug\MainWindow.baml
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\obj\Debug\Data Base.g.resources
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\obj\Debug\Data_Base.Properties.Resources.resources
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\obj\Debug\Data Base.csproj.GenerateResource.cache
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\obj\Debug\Data Base.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\obj\Debug\Data Base.exe
+C:\Users\STUDENT\MAZUROV-DANIIL\MYSQL\Data Base\obj\Debug\Data Base.pdb
