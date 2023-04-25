@@ -1,0 +1,45 @@
+Create database travel_agency;
+
+use travel_agency;
+
+Create table travel_agency
+( 
+id int ,
+Client char(20) ,
+Treaty_nuber char (20),
+Contract_number char(20) 
+)
+engine = MyISAM
+DEFAULT CHARACTER SET = cp1251
+COLLATE = cp1251_general_cs;
+
+
+Insert Into travel_agency
+Values
+(1,'jj','dd','hh');
+
+Insert Into travel_agency
+Values
+(2,'qq','ww','ee');
+
+Insert Into travel_agency
+Values
+(3,'yy','tt','rr');
+
+Insert Into travel_agency
+Values
+(4,'uu','uu','ii');
+
+Insert Into travel_agency
+Values
+(5,'aa','ss','dd');
+
+Update travel_agency
+Set
+Price = '666'
+Where id = 1;
+
+Delete From travel_agency
+Where Id = 1;
+
+
